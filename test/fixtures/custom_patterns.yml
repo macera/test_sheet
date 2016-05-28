@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  custom_head: one
+  condition: one
+  result: one
+
+two:
+  custom_head: two
+  condition: two
+  result: two
